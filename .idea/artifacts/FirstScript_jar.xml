@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="FirstScript:jar">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="root">
+      <element id="archive" name="FirstScript.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$USER_HOME$/DreamBot/Scripts/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="FirstScript" />
+      </element>
+    </root>
+  </artifact>
+</component>
